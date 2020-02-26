@@ -1,6 +1,6 @@
 {
   "name": "jozef",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nejaky package",
   "scripts": {
     "build": "rollup -c"
